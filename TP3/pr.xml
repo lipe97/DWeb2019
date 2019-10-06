@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="class.xsl"?>
+<pr>
+    <metadata>
+        <keyname></keyname>
+        <title>TP3</title>
+        <supervisor>José Carlos Ramalho</supervisor>
+        <bdate>Outubro 2019</bdate>
+        <edate>Outubro 2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>PG41099</identifier>
+            <name>Sérgio Filipe Azevedo Gonçalves</name>
+            <email>pg41099@alunos.uminho.pt</email>           
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Criar um stylesheet para transformar ficheiro XML -pr.xml- numa pagina web.
+        </p>
+        <p>
+            Criar um stylesheet para transformar o dataset - arq.xml- numa pagina web listando os varios arqueosítios em que cada um tem a sua propria pagina 
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">project record</deliverable>
+        <deliverable path="pr.xsl">stylesheet do project record</deliverable>
+        <deliverable path="pr.html">pagina web do project record</deliverable>
+        <deliverable path="arq.xml">dataset dos arqueosítios</deliverable>
+        <deliverable path="arq.xls">stylesheet do dataset </deliverable>
+        <deliverable path="website/index.html">pagina web dos arqueosítios</deliverable>
+    </deliverables>
+</pr>
