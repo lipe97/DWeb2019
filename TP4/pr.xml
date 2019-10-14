@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="class.xsl"?>
+<pr>
+    <metadata>
+        <keyname></keyname>
+        <title>TP4</title>
+        <supervisor>José Carlos Ramalho</supervisor>
+        <bdate>Outubro 2019</bdate>
+        <edate>15 Outubro 2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>PG41099</identifier>
+            <name>Sérgio Filipe Azevedo Gonçalves</name>
+            <email>pg41099@alunos.uminho.pt</email>           
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Criar uma stylesheet XSLT que processe este ficheiro e gere um ficheiro por cada arqueossítio e os coloque numa pasta
+        </p>
+        <p>
+            Criar um servidor em nodejs para acessar cada um dos ficheiros criados
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">project record</deliverable>
+        <deliverable path="pr.xsl">stylesheet do project record</deliverable>
+        <deliverable path="pr.html">pagina web do project record</deliverable>
+        <deliverable path="arq.xml">dataset dos arqueosítios</deliverable>
+        <deliverable path="arq.xsl">stylesheet  </deliverable>
+        <deliverable path="arqueo">ficheiros xml dos arqueositios</deliverable>
+        <deliverable path="server.js">ficheiro do servidor</deliverable>
+    </deliverables>
+</pr>
