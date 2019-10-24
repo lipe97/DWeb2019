@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="class.xsl"?>
+<pr>
+    <metadata>
+        <keyname></keyname>
+        <title>TP5</title>
+        <supervisor>José Carlos Ramalho</supervisor>
+        <bdate>Outubro 2019</bdate>
+        <edate> Outubro 2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>PG41099</identifier>
+            <name>Sérgio Filipe Azevedo Gonçalves</name>
+            <email>pg41099@alunos.uminho.pt</email>           
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Usando os conhecimentos obtidos na aula criar uma pagina com tarefas listadas e uma maneira de adicionar tarefas do modo que o professor indicou
+        </p>
+   
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">project record</deliverable>
+        <deliverable path="pr.xsl">stylesheet do project record</deliverable>
+        <deliverable path="pr.html">pagina web do project record</deliverable>
+        <deliverable path="TP/server.js">codigo do servidor</deliverable>
+        <deliverable path="TP/tasks.json">base de dados</deliverable>
+        <deliverable path="TP/index.pug">pagina principal</deliverable>
+        <deliverable path="TP/layout.pug">layout</deliverable>
+        <deliverable path="TP/erro.pug">erro</deliverable>
+        <deliverable path="TP/stylesheets/w3.css">stylesheets</deliverable>
+   
+    </deliverables>
+</pr>
